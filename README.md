@@ -3,10 +3,10 @@
 ## Vision models examples
 
 [mnist_mlp.py](mnist_mlp.py)
-Trains a simple deep multi-layer perceptron on the MNIST dataset.
+在MNIST数据集上训练一个简单的多层感知机。
 
 [mnist_cnn.py](mnist_cnn.py)
-Trains a simple convnet on the MNIST dataset.
+在MNIST数据集上训练一个简单的卷积网络。
 
 [cifar10_cnn.py](cifar10_cnn.py)
 Trains a simple deep CNN on the CIFAR10 small images dataset.
