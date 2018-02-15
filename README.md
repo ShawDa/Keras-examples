@@ -9,7 +9,7 @@
 在MNIST数据集上训练一个简单的卷积网络。
 
 [cifar10_cnn.py](cifar10_cnn.py)
-Trains a simple deep CNN on the CIFAR10 small images dataset.
+在CIFAR10小图片数据集上训练一个简单的卷积神经网络。
 
 [cifar10_resnet.py](cifar10_resnet.py)
 Trains a ResNet on the CIFAR10 small images dataset.
