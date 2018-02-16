@@ -48,7 +48,7 @@ model.compile(loss=keras.losses.categorical_crossentropy, optimizer=opt, metrics
 #data_augmentation = True
 data_augmentation = False
 if not data_augmentation:
-    print('Not using daya augmentation')
+    print('Not using data augmentation')
     model.fit(x_train, y_train, batch_size=32, epochs=100, validation_data=(x_test, y_test), shuffle=True)
 else:
     print('Using real-time data augmentation')
