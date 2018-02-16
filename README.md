@@ -12,7 +12,7 @@
 在CIFAR10小图片数据集上训练一个简单的卷积神经网络。
 
 [cifar10_resnet.py](cifar10_resnet.py)
-Trains a ResNet on the CIFAR10 small images dataset.
+在CIFAR10小图片数据集上训练一个残差网络。
 
 [conv_lstm.py](conv_lstm.py)
 Demonstrates the use of a convolutional LSTM network.
