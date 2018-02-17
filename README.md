@@ -24,7 +24,7 @@ Trains a convolutional stack followed by a recurrent stack and a CTC logloss fun
 Implementation of AC-GAN (Auxiliary Classifier GAN) on the MNIST dataset
 
 [mnist_hierarchical_rnn.py](mnist_hierarchical_rnn.py)
-Trains a Hierarchical RNN (HRNN) to classify MNIST digits.
+训练一个分层循环网络去给MNIST数据集分类。
 
 [mnist_siamese.py](mnist_siamese.py)
 Trains a Siamese multi-layer perceptron on pairs of digits from the MNIST dataset.
