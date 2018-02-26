@@ -16,7 +16,7 @@ x_test = x_test.astype('float32')/255
 input_shape = x_train.shape[1:]
 
 
-def create_pairs(x, digit_indices):  # pairs举一个正例和反例，lables为1 0 1 0 ...
+def create_pairs(x, digit_indices):  # pairs举一个正例和反例，labels为1 0 1 0 ...
     pairs = []
     labels = []
     n = min([len(digit_indices[d]) for d in range(10)]) - 1
