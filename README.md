@@ -27,7 +27,7 @@ Implementation of AC-GAN (Auxiliary Classifier GAN) on the MNIST dataset
 训练一个分层循环网络去给MNIST数据集分类。
 
 [mnist_siamese.py](mnist_siamese.py)
-Trains a Siamese multi-layer perceptron on pairs of digits from the MNIST dataset.
+在MNIST数据集上取成对数字训练一个Siamese多层感知器。
 
 [mnist_swwae.py](mnist_swwae.py)
 Trains a Stacked What-Where AutoEncoder built on residual blocks on the MNIST dataset.
