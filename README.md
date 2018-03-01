@@ -33,7 +33,7 @@ Implementation of AC-GAN (Auxiliary Classifier GAN) on the MNIST dataset
 Trains a Stacked What-Where AutoEncoder built on residual blocks on the MNIST dataset.
 
 [mnist_transfer_cnn.py](mnist_transfer_cnn.py)
-Transfer learning toy example.
+迁移学习的简单例子。
 
 ----
 
